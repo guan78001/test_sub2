@@ -1,2 +1,2 @@
 Use as a submodule.
-update in submodule
+update in submodule x2
